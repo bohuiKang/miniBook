@@ -4,12 +4,17 @@ N:M의 관계를 가지는 책과 고객으로 테이블을 생성했습니다.
 
 #### 구현할 기능
 책을 등록하고 삭제하기
+
 책 소개글 수정하기
+
 대출 가능한 책 조회하기
+
 연체된 책 조회하기
 
+
 연체된 고객 조회하기
+
 고객의 대출 내역 조회하기
 
 #### ERD
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d77e987a-a360-498b-a88b-1d68ed271a80)
